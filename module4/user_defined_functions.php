@@ -50,7 +50,7 @@
     //result = maximum(10, 15);
     //echo "The max is :".$result;
 
-    function fully_divisible($n){
-        
-    }
+    //function fully_divisible($n){
+
+    //}
 ?>
